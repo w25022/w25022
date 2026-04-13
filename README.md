@@ -20,6 +20,7 @@
 - Next.js（勉強中）
 
 ### ツール
+- VS Code
 - Git / GitHub（勉強中）
 
 ---
