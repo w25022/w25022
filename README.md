@@ -14,6 +14,7 @@
 ### プログラミング言語
 - Java（初級）
 - JavaScript（勉強中）
+- HTML,CSS
 
 ### フレームワーク
 - Next.js（勉強中）
