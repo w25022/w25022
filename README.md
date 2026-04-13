@@ -1,3 +1,4 @@
+👤 自己紹介
 はじめまして。リンサッアウンと申します。
 専門学校沖縄ビジネス外語学院でIT分野を専攻しています。
 
@@ -14,7 +15,6 @@ HTML,CSS
 フレームワーク
 Next.js（勉強中）
 ツール
-VS Code
 Git / GitHub（勉強中）
 🎓 資格
 IT資格
@@ -40,5 +40,5 @@ AI / 機械学習
 
 📫 連絡先
 Phone: +81 80-6488-6801
-Email: w25022@osfl.ac.jp
+Email: w25022.osfl.ac.jp
 GitHub: https://github.com/w25022
