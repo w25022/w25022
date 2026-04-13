@@ -60,5 +60,5 @@
 
 ## 📫 連絡先
 - Phone: +81 80-6488-6801
-- Email: w25022.osfl.ac.jp
+- Email: w25022@osfl.ac.jp
 - GitHub: https://github.com/w25022
